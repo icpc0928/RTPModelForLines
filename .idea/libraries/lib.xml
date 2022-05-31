@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/poi-examples-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/poi-excelant-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/poi-scratchpad-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SFS2X/lib/poi/xmlbeans-3.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../SFS2X/lib/poi/lib" />
+      <root url="file://$PROJECT_DIR$/../../SFS2X/lib/poi/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SFS2X/lib/poi/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SFS2X/lib/poi/ooxml-lib" recursive="false" />
+  </library>
+</component>
